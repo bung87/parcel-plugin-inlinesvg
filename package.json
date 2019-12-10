@@ -3,6 +3,7 @@
   "version": "0.1.1",
   "description": "Parcel plugin to support inline SVG",
   "main": "./lib/index.js",
+  "files": ["./lib/*.js"],
   "scripts": {
     "example": "cd example && npm start",
     "test": "jest"

@@ -1,10 +1,10 @@
-import chromeSvg from "./svg/chrome.svg";
-import firefoxSvg from "./svg/firefox.svg";
-import safariSvg from "./svg/safari.svg";
-import edgeSvg from "./svg/edge.svg";
-import operaSvg from "./svg/opera.svg";
-import explorerSvg from "./svg/explorer.svg";
-import dummySvg from "./svg/dummy.svg";
+import chromeSvg from "./svg/chrome.isvg";
+import firefoxSvg from "./svg/firefox.isvg";
+import safariSvg from "./svg/safari.isvg";
+import edgeSvg from "./svg/edge.isvg";
+import operaSvg from "./svg/opera.isvg";
+import explorerSvg from "./svg/explorer.isvg";
+import dummySvg from "./svg/dummy.isvg";
 
 // const parser = new DOMParser();
 // const svgElement = parser.parseFromString(chromeSvg, "image/svg+xml");
